@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "User_black": [
+    {
+      "uin": "123456",
+      "reason": "刷屏广告"
+    },
+    {
+      "uin": "654321",
+      "reason": "恶意骚扰"
+    },
+    {
+      "uin": "ceshi",
+      "reason": "测试黑名单"
+    }
+  ],
+  "User_Member": [
+    {
+      "uin": "888888",
+      "reason": "年费会员"
+    },
+    {
+      "uin": "999999",
+      "reason": "内部成员"
+    }
+  ],
+  "User_normal": [
+    {
+      "uin": "111111",
+      "reason": "普通用户"
+    },
+    {
+      "uin": "222222",
+      "reason": "普通用户"
+    }
+  ]
+}
